@@ -1,8 +1,6 @@
 name: GDI Update
 
 on:
-  schedule:
-    - cron: "0 8 * * 3,5"
   workflow_dispatch:
   # push:
   #   branches:
